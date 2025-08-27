@@ -1,0 +1,4 @@
+Please see the repo here:
+https://github.com/Lee0997/Portfolio-Data-Projects
+
+This repo contains my current project work, utilising the knowledge gained from this course.
