@@ -79,4 +79,4 @@ This repository contains my weekly workbooks and project work from the JustIT Da
 
 ## Repository Link
 
-See the live repository at: [GitHub Portfolio](https://github.com/Lee0997/Portfolio-Data-Projects)
+See the live repository of my projects at: [GitHub Portfolio](https://github.com/Lee0997/Portfolio-Data-Projects)
