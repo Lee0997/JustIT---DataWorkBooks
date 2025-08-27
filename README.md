@@ -1,5 +1,3 @@
-# JustIT---DataWorkBooks
-
 # JustIT Data Technician Workbooks
 
 This repository contains my weekly workbooks and project work from the JustIT Data Technician course. Each week focused on a different area of data analysis and technology, building practical skills through hands-on exercises and projects.
